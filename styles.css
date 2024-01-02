@@ -25,10 +25,13 @@ body{
 }
 .red{
     background-color: red;
+	display:inline;
 }
 .green{
     background-color: green;
+	display:inline;
 }
 .yellow{
     background-color: yellow;
+	display:inline;
 }
